@@ -1,10 +1,10 @@
 # PreInt
 
-> The code is written in Java and maven is used for build.
-> Consists of three classes :
-	> GitReader.java - Class with the core logic
-	> App.java - Main application to test GitReader
-	> GitReaderTest.java - Unit tests (currently tests only one function)
+The code is written in Java and maven is used for build.
+Consists of three classes :
+	1) GitReader.java - Class with the core logic
+	2) App.java - Main application to test GitReader
+	3) GitReaderTest.java - Unit tests (currently tests only one function)
 	
 To build and run 
 ----------------
